@@ -146,5 +146,6 @@ The system uses multiple sensors connected to a Raspberry Pi Pico W to collect e
 
 * Ansh Taralekar
 
-
+Electronics & Telecommunication Engineering
+K. J. Somaiya Institute of Technology GitHub: https://github.com/anshtaralekar
 
